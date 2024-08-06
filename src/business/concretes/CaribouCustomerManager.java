@@ -1,6 +1,6 @@
 package business.concretes;
 
-import Until.CustomerCheckMernel;
+import adapters.CustomerCheckMernel;
 import business.abstracts.BaseCustomerManager;
 import entities.abstracts.BaseCustomer;
 
